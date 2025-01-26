@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"GamerMarketCoin_flattened.sol": "Math"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"GamerMarketCoin_flattened.sol": {
+			"keccak256": "0xdcffc1d536655391c7bafc85c3efb0d0ad73d29e022301931c68cd2eef87d44e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://164e2e0ddb326a92c956566d56fa79a260f6c718e07e7aa2582b9786c2fdc3e9",
+				"dweb:/ipfs/QmesVwsrqZGpEHyd6rphTqdN2bEhcx4XvnwrqUzuFo2gDg"
+			]
+		}
+	},
+	"version": 1
+}
